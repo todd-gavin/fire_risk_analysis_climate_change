@@ -1,0 +1,26 @@
+Graph of wildfire acres burned per county per month
+Graph of rainfall per county per month
+Graph of wildfire acres burned per county per month vs rainfall per county per month
+
+okay, now create a new py files called visulaizations.py which will take the wildfire_rainfall.analysis.csv and create a folder for each county filled with .pngs of these grpahs for each month,year:
+
+Graph of wildfire acres burned per county per month
+Graph of rainfall per county per month
+Graph of wildfire acres burned per county per month vs rainfall per county per month
+
+Graph of wildfire acres burned per group of counties per month vs rainfall per group of counties per month
+- Northern California
+- Southern California
+- Central Valley California
+- Central Coast California
+- Bay Area California
+
+Heat Map Matix:
+- X: 
+- Y:
+- Z: 
+
+Geographical Graph:
+    - Slider with Selected Months
+    - Map of California segmented by County lines
+    - For each county show the wildfire acres bruned and rainfall
