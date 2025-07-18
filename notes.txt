@@ -23,4 +23,8 @@ Heat Map Matix:
 Geographical Graph:
     - Slider with Selected Months
     - Map of California segmented by County lines
-    - For each county show the wildfire acres bruned and rainfall
+    - For each county, show the wildfire acres burned as one bar and rainfall as the other
+
+I want to run an analsysi to see if theres a stat sig inverse proportional relationship between rainfall and acres burned
+
+maybe we can also do rainfall vs # of incidents (ratehr than just acres burned)
